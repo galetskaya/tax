@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: ktn
+  api_key: '313288322171324'
+  api_secret: vXOgOiIY8nb4q9PcqE4xlzYVX3A
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: ktn
+  api_key: '313288322171324'
+  api_secret: vXOgOiIY8nb4q9PcqE4xlzYVX3A
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: ktn
+  api_key: '313288322171324'
+  api_secret: vXOgOiIY8nb4q9PcqE4xlzYVX3A
+  enhance_image_tag: true
+  static_image_support: false

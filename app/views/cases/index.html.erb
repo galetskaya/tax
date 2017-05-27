@@ -1,0 +1,7 @@
+<%= render "shared/internal_navbar" %>
+
+<div class="container">
+  <h1>Posts</h1>
+
+  <%= render :partial => :case, :collection => Case.all, :as => :c %>
+</div>
