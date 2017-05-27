@@ -59,6 +59,7 @@ gem 'attachinary'
 gem 'bootstrap_form'
 
 group :production do
+  gem 'thin'
   gem 'pg'
   gem 'rails_12factor'
 end

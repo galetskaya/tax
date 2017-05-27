@@ -35,12 +35,12 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: image-url(../img/dota4.png) no-repeat center center;
+    background: image-url("img/dota4.png") no-repeat center center;
     background-size: cover;
 }
 
 .signup-header {
-    background: image-url(../img/templ3.png) no-repeat center center;
+    background: image-url("img/templ3.png") no-repeat center center;
     width: 700px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
@@ -48,7 +48,7 @@ h6 {
 
 
 .registration-header {
-    background: image-url(../img/templ2.png) no-repeat center center;
+    background: image-url("img/templ2.png") no-repeat center center;
     width: 700px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
@@ -132,7 +132,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: image-url(../img/dota2.jpg) no-repeat center center;
+    background: image-url("img/dota2.jpg") no-repeat center center;
     background-size: cover;
 }
 
